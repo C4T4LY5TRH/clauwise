@@ -1,0 +1,6 @@
+.build/
+.vscode/
+.DS_Store
+Clauwise.app/Contents/MacOS/Clauwise
+Clauwise.app/Contents/Resources/AppIcon.icns
+Clauwise.app/Contents/_CodeSignature/
